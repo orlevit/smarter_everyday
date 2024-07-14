@@ -1,8 +1,8 @@
 # Free and Easy Website Creation
 This project explores creating a website under the following constraints:
 
-* Free - Everything should be without any cost.
-* Easy - The construction of the site should be easy, without the need to learn HTML.
+* **Free** - Everything should be without any cost.
+* **Easy** - The construction of the site should be easy, without the need to learn HTML.
 
 As we add constraints, the complexity increases. This project will guide you through both free and easy ways to create a website, as well as more challenging alternatives.
 
