@@ -1,0 +1,12 @@
+datasets==1.13.3
+pandas==0.25.1
+matplotlib==3.1.2
+seaborn==0.9.0
+preprocessing
+nltk==3.4.5
+contractions==0.0.18
+gensim==3.8.1
+evaluation
+rouge==1.0.0
+keras==2.6.0
+transformers==3.0.1
