@@ -6,6 +6,11 @@ This project explores creating a website under the following constraints:
 
 As we add constraints, the complexity increases. This project will guide you through both free and easy ways to create a website, as well as more challenging alternatives.
 
+Example:
+<p align="center">
+  <img src="images/website.png" width="400" height="500">
+</p>
+
 Resource:
 
 [[1] publishing-a-website-on-bitbucket-cloud ](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
