@@ -29,11 +29,11 @@ The code covers 3D visualization of clustering results and a comparison of diffe
 
 * **Mammoth**: A 3D scanned model of a woolly mammoth skeleton, included in the Smithsonian Institution's collection of digital 3D models. The dataset comprises 1 million data points, of which 5,000 have been randomly selected for analysis.
 
-* **Swiss Roll**: A 3D dataset in which points are organized in a spiral, helical shape resembling a rolled-up surface. It is created using parametric equations that define a spiral: \(x = t \cdot \cos(t)\), \(y = h\), \(z = t\). Where \(t\) represents the distance along the spiral and \(h\) is a vertical component. Additional Gaussian noise is added to introduce variability. A total of 1000 data points were sampled.
+* **Swiss Roll**: A 3D dataset in which points are organized in a spiral, helical shape resembling a rolled-up surface. It is created using parametric equations that define a spiral: $x = t \cdot \cos(t), y = h, z = t$. Where $t$ represents the distance along the spiral and $h$ is a vertical component. Additional Gaussian noise is added to introduce variability. A total of 1000 data points were sampled.
 
 * **Digits**: A dataset containing 1,797 samples of handwritten digits (0-9), represented as 8x8 pixel grayscale images. Each image is converted into a 64-dimensional vector, corresponding to the pixel intensities. This dataset is part of the UCI Machine Learning Repository.
 
-* **S Curve**: A 2-dimensional (2D) surface embedded in a 3-dimensional (3D) space. The points in the dataset are arranged in an "S" shape, with the curve bending back and forth along two of the three axes, resulting in a non-linear form. This dataset is created by mapping a 2D grid onto a 3D space using the following mathematical function: \(x = t\), \(y = \sin(t)\), \(z = h\). A total of 1000 data points were sampled.
+* **S Curve**: A 2-dimensional (2D) surface embedded in a 3-dimensional (3D) space. The points in the dataset are arranged in an "S" shape, with the curve bending back and forth along two of the three axes, resulting in a non-linear form. This dataset is created by mapping a 2D grid onto a 3D space using the following mathematical function: $x = t, y = sin(t), z = h$. A total of 1000 data points were sampled.
 
 ## Insights
 
